@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WiimoteUtility", "WiimoteUtility\WiimoteUtility.vcxproj", "{DC5EC50B-0645-4697-A2E8-B29168EE10BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC5EC50B-0645-4697-A2E8-B29168EE10BD}.Debug|x64.ActiveCfg = Debug|x64
+		{DC5EC50B-0645-4697-A2E8-B29168EE10BD}.Debug|x64.Build.0 = Debug|x64
+		{DC5EC50B-0645-4697-A2E8-B29168EE10BD}.Debug|x86.ActiveCfg = Debug|Win32
+		{DC5EC50B-0645-4697-A2E8-B29168EE10BD}.Debug|x86.Build.0 = Debug|Win32
+		{DC5EC50B-0645-4697-A2E8-B29168EE10BD}.Release|x64.ActiveCfg = Release|x64
+		{DC5EC50B-0645-4697-A2E8-B29168EE10BD}.Release|x64.Build.0 = Release|x64
+		{DC5EC50B-0645-4697-A2E8-B29168EE10BD}.Release|x86.ActiveCfg = Release|Win32
+		{DC5EC50B-0645-4697-A2E8-B29168EE10BD}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40898E29-88C0-42D3-BEFF-FB1513673D4B}
+	EndGlobalSection
+EndGlobal
